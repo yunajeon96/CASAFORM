@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/CASAFORM/static/css/main.b55ab036.css",
-    "main.js": "/CASAFORM/static/js/main.c8eca19b.js",
+    "main.js": "/CASAFORM/static/js/main.bc72e219.js",
     "static/js/787.0ec7d61e.chunk.js": "/CASAFORM/static/js/787.0ec7d61e.chunk.js",
     "static/media/sub.jpg": "/CASAFORM/static/media/sub.6643a769e85c00956dbd.jpg",
     "static/media/largebox.jpg": "/CASAFORM/static/media/largebox.e106e0811d760fea32f8.jpg",
     "static/media/contact.jpg": "/CASAFORM/static/media/contact.34b28e7af682cd3dbe02.jpg",
     "index.html": "/CASAFORM/index.html",
     "main.b55ab036.css.map": "/CASAFORM/static/css/main.b55ab036.css.map",
-    "main.c8eca19b.js.map": "/CASAFORM/static/js/main.c8eca19b.js.map",
+    "main.bc72e219.js.map": "/CASAFORM/static/js/main.bc72e219.js.map",
     "787.0ec7d61e.chunk.js.map": "/CASAFORM/static/js/787.0ec7d61e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b55ab036.css",
-    "static/js/main.c8eca19b.js"
+    "static/js/main.bc72e219.js"
   ]
 }
